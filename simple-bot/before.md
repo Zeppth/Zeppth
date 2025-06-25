@@ -1,5 +1,5 @@
 
-# Documentación del Middleware `before`
+# Middleware `before`
 
 El sistema `before` es una de las características más potentes y flexibles para el desarrollo de plugins. Actúa como un "middleware", permitiéndote ejecutar código en diferentes etapas del procesamiento de un mensaje, antes de que se ejecute el comando final. Esto es ideal para validaciones, registros (logs), sistemas de anti-spam, baneos, contadores de uso y mucho más.
 
