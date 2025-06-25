@@ -1,10 +1,7 @@
-#################################################################
-#                                                               #
-#          TUTORIAL PARA LA CREACIÓN DE PLUGINS DEL BOT         #
-#                                                               #
-#################################################################
 
-Bienvenido a la guía de desarrollo para tu bot. Este sistema de plugins te permite
+# TUTORIAL PARA LA CREACIÓN DE PLUGINS DEL BOT
+
+Guía de desarrollo para tu bot. Este sistema de plugins te permite
 añadir nuevas funcionalidades de forma modular y organizada. Cada archivo `.js`
 dentro de la carpeta `/plugins` es un plugin independiente.
 
