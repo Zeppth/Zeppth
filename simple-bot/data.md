@@ -1,5 +1,5 @@
 
-# Documentación Completa del Objeto `m` (o `data`)
+# Objeto `m` (o `data`)
 
 El objeto `m` es el parámetro más crucial para cualquier plugin. Contiene todo el contexto de un mensaje entrante, procesado y enriquecido con funciones y datos útiles para facilitar el desarrollo. A continuación se detalla cada una de sus partes.
 
